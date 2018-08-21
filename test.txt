@@ -1,8 +1,15 @@
-今天我是吃了一百个苹果的男人，
+﻿今天我是吃了一百个苹果的男人，
 下午我还吃了一个梨，那是个英雄。
 现在我想修复一个BUG，你同意吗。你是不同意吗，还是。。。
 xianzai shi jia li yige jiejue zhe yige bug1
 
 xianzai wo shi zai bian ma masdhurhaksdjfhasuherjnkjsdhfuaehlrjkhsdfuahskrhhasdkjhrkjhskdjrkjsahkjfdahskjrhksahdkrh
 oiarlekrndhkajshrkbdcjashjdrbbdbfkjashjrbbrkashdrbbbckajhsrbbblkcajhrbbbaskjdhrjbbbbsakdjrbbb
+
+
+是的，下面这些是加上去的   ceshi de zaiz heli 
+
+
+后面是测试异常情况的。
+
 
